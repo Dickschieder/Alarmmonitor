@@ -27,7 +27,7 @@ VPNAutostart=1
 #*******************************************************************************
 #Benutzer Abfragen
 #*******************************************************************************
-clear
+
 
 echo
 read -p "Bitte die Alarm URL aus dem Browser eingeben: " AlarmURL
