@@ -215,7 +215,7 @@ do
     --disable-suggestions-service \
     --disable-save-password-bubble \
     --disable-session-crashed-bubble \
-	--disable-features=Translate
+	--disable-features=Translate \
     --kiosk "$AlarmURL"
   sleep 5
 done &
