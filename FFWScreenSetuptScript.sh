@@ -8,7 +8,7 @@ echo Willkommen zum Setup Script für den Alarmmonitor
 echo
 echo Das Script muss als root user ausgeführt werden
 echo
-echo v1                                          Rasel
+echo                                             Rasel
 echo *************************************************
 
 # Variablen vorbelegen
